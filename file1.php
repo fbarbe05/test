@@ -1,7 +1,7 @@
 <?php
 function test(){
     $a = 5; 
-    $b = 6; 
+    $b = 7; 
     return $a+$b; 
 }
 ?>
